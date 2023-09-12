@@ -8,3 +8,5 @@ tiktoken
 python-dotenv~=1.0.0
 pandas~=2.1.0
 bs4
+selenium
+unstructured
